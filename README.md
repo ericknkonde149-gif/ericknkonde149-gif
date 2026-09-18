@@ -1,3 +1,23 @@
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi%20There,%20I'm%20Alick%20Nkonde%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
+<!-- BIO SECTION -->
+<h3 align="center">👨‍💻 Full-Stack Software Engineer | Technical Lead</h3>
+
+<p align="center">
+  Passionate about building scalable web applications, real-time architectures, and mobile experiences.<br>
+  Always experimenting with modern frameworks, cloud deployments, and AI tools.
+</p>
+
+<p align="center">
+  📍 <b>Lusaka, Zambia</b> &nbsp; | &nbsp; ⚡ <b>Building & Shipping Clean Code</b>
+</p>
+
+---
+
+<!-- TECH STACK -->
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
@@ -47,3 +67,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericknkonde149-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknkonde149-gif&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<!-- FOOTER / STREAK -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=100&section=footer" width="100%" />
+</p>
