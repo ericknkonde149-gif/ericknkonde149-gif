@@ -73,10 +73,9 @@
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericknkonde149-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknkonde149-gif&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Alick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericknkonde149-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericknkonde149-gif&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
