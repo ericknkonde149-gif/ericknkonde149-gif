@@ -71,12 +71,12 @@
 ---
 
 <!-- GITHUB STATS -->
+<!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
-![Alick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericknkonde149-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericknkonde149-gif&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericknkonde149-gif&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericknkonde149-gif&theme=tokyo-night&hide_border=true)
 ---
 
 <!-- FOOTER / STREAK -->
