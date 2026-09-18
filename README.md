@@ -70,16 +70,7 @@
 
 ---
 
-<!-- GITHUB STATS -->
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericknkonde149-gif&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericknkonde149-gif&theme=tokyo-night&hide_border=true)
----
-
-<!-- FOOTER / STREAK -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=100&section=footer" width="100%" />
 </p>
